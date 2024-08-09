@@ -22,7 +22,7 @@ Welcome to the Python Loops Statement!
   - `Exercise5_TheIntelligentElevatorSystem.py`
   - `Exercise6_TrafficLightSystem.py`
   - `Exercise7_RopeChallenge.py`
-  - **Module 2 - Lesson 4 - Exercises Part 3 - Random Package - Python Loops Statement**
+- **Module 2 - Lesson 4 - Exercises Part 3 - Random Package - Python Loops Statement**
   - `Exercise1_TheRandomPackage.py`
   - `Exercise2_ShufflingAPlaylist.py`
   - `Exercise3_ARandomizedLoop.py`
@@ -34,7 +34,7 @@ Welcome to the Python Loops Statement!
   - `Exercise9_DynamicColorGeneration.py`
   - `Exercise10_DjPlaylist.py`
   - `Exercise11_DjPlaylistPart2.py`
-    - **Module 2 - Lesson 4 - Exercises Part 4 - Python Loops Statement**
+- **Module 2 - Lesson 4 - Exercises Part 4 - Python Loops Statement**
   - `Exercise1.py`
   - `Exercise2.py`
   - `Exercise3.py`
